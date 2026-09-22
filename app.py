@@ -90,9 +90,7 @@ with st.expander("👤 Human support queue"):
         st.info("No pending human escalation tickets.")
     else:
         for t in reversed(pending):
-            st.markdown(f"**{t.get('ticket_id','Unknown')}** · `{t.get('status','Pending')}`  
-Reason: {t.get('reason','Not specified')}  
-Order: {t.get('order_id','Not provided')}")
+                      st.markdown(f"**{t.get('ticket_id','Unknown')}** · `{t.get('status','Pending')}`\n\nReason: {t.get('reason','Not specified')}  \nOrder: {t.get('order_id','Not provided')}")
             st.divider()
 
 st.markdown('<div style="text-align:center;color:#999;padding:25px">Daraz-style fictional customer support demo • Not an official Daraz system</div>',unsafe_allow_html=True)
