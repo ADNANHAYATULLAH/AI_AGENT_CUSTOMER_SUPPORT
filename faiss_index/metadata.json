@@ -1,0 +1,128 @@
+[
+  {
+    "id": "2b1038ef-eccc-4d2e-b0c3-c378b4b06237",
+    "department": "unknown",
+    "source_file": "return_policy.pdf",
+    "text": "Daraz – Return Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Return Eligibility A customer may request a return for an eligible product when the item is damaged, defective, incorrect, incomplete, or materially different from the listing. 2. Return Window For this demo policy, return requests should normally be submitted within 7 calendar days after delivery unless the product category specifies a different period. 3. Product Condition Returned products should be unused where possible and should include original accessories, manuals, packaging, labels, and other included components. 4. Non-Returnable Items Certain categories may be excluded from returns for hygiene, safety, personalization, digita"
+  },
+  {
+    "id": "173956c9-8f71-4887-9758-1520e9f5efa0",
+    "department": "unknown",
+    "source_file": "return_policy.pdf",
+    "text": "s, and other included components. 4. Non-Returnable Items Certain categories may be excluded from returns for hygiene, safety, personalization, digital-delivery, or regulatory reasons. The product page may identify such exclusions. 5. Return Request Customers should submit the order number, reason for return, photographs when relevant, and a brief description of the issue through customer support. 6. Inspection The returned product may be inspected before a return is approved. If the reported condition does not meet the policy requirements, the return may be rejected. 7. Exchange Where stock is available, an eligible return may be offered as an exchange instead of a refund. The available remedy depends on the reason for return and product category. 8. Abuse Prevention Repeated fraudulent,"
+  },
+  {
+    "id": "a215a86d-f2b1-4729-9b57-308d4f859e43",
+    "department": "unknown",
+    "source_file": "return_policy.pdf",
+    "text": "an exchange instead of a refund. The available remedy depends on the reason for return and product category. 8. Abuse Prevention Repeated fraudulent, manipulated, or abusive return requests may be investigated and may result in restrictions on return privileges. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "69b770ac-864e-4fc6-8df9-908cfeb37cd7",
+    "department": "unknown",
+    "source_file": "purchase_policy.pdf",
+    "text": "Daraz – Purchase Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Purpose This policy explains general purchasing rules for customers placing orders through the fictional Daraz marketplace used in this demo. 2. Product Selection Customers may select products from available listings. Product descriptions, specifications, images, seller information, and displayed prices should be reviewed before purchase. 3. Order Confirmation An order is considered submitted when the customer completes checkout and receives an order confirmation. The platform may cancel an order when required information is missing, a product is unavailable, or a technical issue affects the listing. 4. Pricing The price shown at chec"
+  },
+  {
+    "id": "b25ba3a2-101f-4147-8a5a-fa5a58463c92",
+    "department": "unknown",
+    "source_file": "purchase_policy.pdf",
+    "text": "an order when required information is missing, a product is unavailable, or a technical issue affects the listing. 4. Pricing The price shown at checkout is the applicable purchase price for the order, excluding any separately displayed delivery charges, taxes, or fees. Promotional prices may have eligibility conditions. 5. Quantity Limits Some products may have quantity limits to prevent abuse of promotions or unusually large purchases. Orders exceeding a stated limit may be adjusted or cancelled. 6. Prohibited Purchases Customers must not use the marketplace to purchase prohibited, illegal, counterfeit, or otherwise restricted goods. 7. Customer Responsibility Customers are responsible for entering correct contact, delivery, and payment information and for checking the order summary bef"
+  },
+  {
+    "id": "290940c1-5a9c-4842-85ac-06fec8557e22",
+    "department": "unknown",
+    "source_file": "purchase_policy.pdf",
+    "text": "stomer Responsibility Customers are responsible for entering correct contact, delivery, and payment information and for checking the order summary before confirming the purchase. 8. Policy Changes The fictional company may update this policy for the demo. The version shown at checkout should be treated as the applicable version. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "be84bb80-63a0-4b90-af4f-266d2fd48643",
+    "department": "unknown",
+    "source_file": "payment_policy.pdf",
+    "text": "Daraz – Payment Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Accepted Payment Methods The demo marketplace may support cash on delivery, debit or credit cards, bank-based payments, and selected digital wallets depending on location and availability. 2. Payment Authorization Card and wallet transactions may require authorization from the payment provider. An order is not guaranteed until the payment status is successfully confirmed. 3. Cash on Delivery For eligible orders, customers may pay when the package is delivered. Cash-on-delivery availability can depend on address, product, seller, order value, and other risk controls. 4. Failed Payments If an online payment fails, the customer may retry"
+  },
+  {
+    "id": "e25c864f-2a8f-42f8-8ce8-fcc6996455c7",
+    "department": "unknown",
+    "source_file": "payment_policy.pdf",
+    "text": "y can depend on address, product, seller, order value, and other risk controls. 4. Failed Payments If an online payment fails, the customer may retry using an available payment method. A failed payment does not necessarily mean that an order was successfully placed. 5. Payment Security Customers should never share one-time passwords, card PINs, CVV codes, or account passwords with sellers, delivery personnel, or customer-support agents. 6. Duplicate Charges If a customer believes a payment was duplicated, they should provide the order number, transaction reference, amount, and payment date to customer support for investigation. 7. Refunds to Payment Method Where applicable, approved refunds may be returned to the original payment method or another method permitted by the payment provider."
+  },
+  {
+    "id": "22ccbee6-20b3-4963-a28a-04315d5b3579",
+    "department": "unknown",
+    "source_file": "payment_policy.pdf",
+    "text": "Payment Method Where applicable, approved refunds may be returned to the original payment method or another method permitted by the payment provider. 8. Fraud Monitoring Transactions may be reviewed or blocked when automated systems identify unusual activity or potential payment fraud. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "2f6eaced-89c8-45e9-9cad-48aa34021936",
+    "department": "unknown",
+    "source_file": "shipping_policy.pdf",
+    "text": "Daraz – Shipping Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Delivery Coverage Delivery availability depends on the customer's address, seller location, courier coverage, product type, and operational conditions. 2. Estimated Delivery Time The estimated delivery date displayed during checkout is an estimate and may change because of weather, public holidays, courier capacity, remote locations, or other operational factors. 3. Shipping Charges Delivery charges, if applicable, are displayed during checkout. Charges can vary according to package size, destination, seller, delivery service, and promotional conditions. 4. Shipment Tracking After dispatch, customers may receive a tracking number or t"
+  },
+  {
+    "id": "522a9e22-c2ed-4b90-b3e1-26af89cea233",
+    "department": "unknown",
+    "source_file": "shipping_policy.pdf",
+    "text": ", destination, seller, delivery service, and promotional conditions. 4. Shipment Tracking After dispatch, customers may receive a tracking number or tracking link. Tracking information may take time to appear after a parcel is handed to the courier. 5. Delivery Attempts The courier may make one or more delivery attempts. Customers should remain reachable at the provided phone number and ensure that the address is complete. 6. Delayed Shipments For a delayed order, customers should first review the latest tracking status and then contact customer support if the estimated delivery window has passed. 7. Damaged Package Customers should report visible package damage as soon as possible and may be asked to provide photographs or other evidence. 8. Undeliverable Packages Packages may be returned"
+  },
+  {
+    "id": "2d4bcdcb-dbf7-4fa9-b90b-96f68d200cdb",
+    "department": "unknown",
+    "source_file": "shipping_policy.pdf",
+    "text": "sible package damage as soon as possible and may be asked to provide photographs or other evidence. 8. Undeliverable Packages Packages may be returned to the seller when the address is invalid, the recipient cannot be reached, or delivery attempts are unsuccessful. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "fb474d29-3580-4188-aef3-8109fc8fdc64",
+    "department": "unknown",
+    "source_file": "ordering_policy.pdf",
+    "text": "Daraz – Ordering Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Creating an Order Customers can create an order by selecting an available product, choosing quantity and delivery details, selecting a payment method, and confirming checkout. 2. Order Status Typical order states in this demo are Pending, Confirmed, Packed, Shipped, Delivered, Cancelled, Returned, and Refunded. 3. Order Changes Customers should contact support promptly if they need to correct delivery information or cancel an order. Changes may not be possible after packing or shipment. 4. Multiple Sellers Items purchased from different sellers may be processed and delivered separately. Delivery times and charges may therefore differ."
+  },
+  {
+    "id": "8fac1888-d046-4c1c-bb31-e993f3b8c6b3",
+    "department": "unknown",
+    "source_file": "ordering_policy.pdf",
+    "text": "4. Multiple Sellers Items purchased from different sellers may be processed and delivered separately. Delivery times and charges may therefore differ. 5. Cancellation by Customer A customer may request cancellation before shipment where the order system permits it. Cancellation after shipment may require the customer to follow the return process. 6. Cancellation by Platform An order may be cancelled because of stock unavailability, payment failure, pricing errors, suspected fraud, seller constraints, or other operational reasons. 7. Order Confirmation The confirmation page or confirmation message should contain the order number and summary. Customers should keep this information for future support requests. 8. Incorrect Information Customers are responsible for providing accurate name, pho"
+  },
+  {
+    "id": "8270ffec-d27d-4d6a-ac83-bc2ac3b2c125",
+    "department": "unknown",
+    "source_file": "ordering_policy.pdf",
+    "text": "ustomers should keep this information for future support requests. 8. Incorrect Information Customers are responsible for providing accurate name, phone number, email address, and delivery address information. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "6fe23d2e-0234-44a4-86e3-84bd07c7cb3e",
+    "department": "unknown",
+    "source_file": "refund_policy.pdf",
+    "text": "Daraz – Refund Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Refund Eligibility A refund may be issued when an eligible order is cancelled, a return is approved, an item is unavailable, or another qualifying issue is confirmed. 2. Refund Review Customer support may review the order, payment record, return status, and supporting evidence before approving a refund. 3. Refund Amount The refund amount normally corresponds to the approved amount for the affected item or order. Delivery charges and promotional discounts may be treated according to the reason for the refund. 4. Refund Timing After approval, the time required for a refund to appear depends on the selected payment method and the payment p"
+  },
+  {
+    "id": "752cdc32-d925-4aad-9ef3-1993e09f61de",
+    "department": "unknown",
+    "source_file": "refund_policy.pdf",
+    "text": "son for the refund. 4. Refund Timing After approval, the time required for a refund to appear depends on the selected payment method and the payment provider. Bank or card processing may take additional business days. 5. Cash-on-Delivery Refunds For cash-on-delivery orders, an approved refund may require the customer to provide valid account or wallet details through the approved support process. 6. Partial Refunds A partial refund may be issued when only one item in a multi-item order is affected or when only part of the purchase amount qualifies. 7. Refund Not Received If a customer has not received an expected refund after the stated processing period, they should contact support with the order number and refund reference. 8. Fraudulent Claims False refund claims, altered evidence, or r"
+  },
+  {
+    "id": "d933b10d-ba57-4a7e-aed7-026cdac27bc5",
+    "department": "unknown",
+    "source_file": "refund_policy.pdf",
+    "text": "ssing period, they should contact support with the order number and refund reference. 8. Fraudulent Claims False refund claims, altered evidence, or repeated abuse of refund processes may lead to investigation and account restrictions. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  },
+  {
+    "id": "50cc118c-0082-41f5-b18e-449fd4e7c3ce",
+    "department": "unknown",
+    "source_file": "customer_support_policy.pdf",
+    "text": "Daraz – Customer Support Policy (Dummy) This is a fictional sample company-policy document created for RAG/embedding practice. It is not an official Daraz policy. 1. Support Channels The fictional marketplace provides customer support through in-app or website help options and other channels displayed on the platform. 2. Information Required Customers should provide the order number, registered contact information, a clear description of the problem, and relevant photographs or screenshots when requested. 3. Response Time Support response times can vary depending on the complexity of the issue, the required investigation, and the support channel used. 4. Order Issues For delivery, return, refund, or payment questions, support may review the order history and relevant transaction or courier"
+  },
+  {
+    "id": "4d5b167c-06d2-4783-84a7-6f860977d932",
+    "department": "unknown",
+    "source_file": "customer_support_policy.pdf",
+    "text": "nel used. 4. Order Issues For delivery, return, refund, or payment questions, support may review the order history and relevant transaction or courier information. 5. Seller Communication Customers should use approved marketplace communication channels when contacting sellers. Customers should avoid sharing passwords, OTPs, card PINs, or other sensitive authentication information. 6. Escalation If an issue cannot be resolved at the first level, the support team may escalate it to a specialist team, seller, courier, payment provider, or another responsible department. 7. Account Security Customers should immediately report suspected unauthorized account activity and change their password using the approved account-security process. 8. Support Conduct Customers and support representatives ar"
+  },
+  {
+    "id": "1317e499-9e69-4036-99ba-c38dc2792a54",
+    "department": "unknown",
+    "source_file": "customer_support_policy.pdf",
+    "text": "ed account activity and change their password using the approved account-security process. 8. Support Conduct Customers and support representatives are expected to communicate respectfully. Threats, harassment, fraud, or abuse of support channels may result in restrictions. Demo document for RAG/embedding development. All policy details are fictional and should not be treated as official company policy."
+  }
+]
