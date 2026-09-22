@@ -1,5 +1,5 @@
 streamlit
-crewai
+crewai[google-genai]
 faiss-cpu
 sentence-transformers
 pandas
