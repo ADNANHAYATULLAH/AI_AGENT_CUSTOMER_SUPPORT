@@ -85,12 +85,21 @@ if prompt:
     st.rerun()
 
 with st.expander("👤 Human support queue"):
-    pending=get_pending_escalations()
+    pending = get_pending_escalations()
+
     if not pending:
         st.info("No pending human escalation tickets.")
     else:
         for t in reversed(pending):
-                      st.markdown(f"**{t.get('ticket_id','Unknown')}** · `{t.get('status','Pending')}`\n\nReason: {t.get('reason','Not specified')}  \nOrder: {t.get('order_id','Not provided')}")
-            st.divider()
+            ticket_id = t.get("ticket_id", "Unknown")
+            status = t.get("status", "Pending")
+            reason = t.get("reason", "Not specified")
+            order_id = t.get("order_id", "Not provided")
 
-st.markdown('<div style="text-align:center;color:#999;padding:25px">Daraz-style fictional customer support demo • Not an official Daraz system</div>',unsafe_allow_html=True)
+            st.markdown(
+                f"**{ticket_id}** · `{status}`  \n"
+                f"Reason: {reason}  \n"
+                f"Order: {order_id}"
+            )
+
+            st.divider()
